@@ -1,0 +1,27 @@
+[Opening Shot: Enthusiastic individual sitting in a modern, well-lit workspace]
+
+Hey there, investors! Today, I'm excited to share a story of resilience, innovation, and the collaborative power of GitHub.
+
+[Cut to: Visuals of GitHub interface]
+
+Picture this: I had a disheartening experience where my hard work was pilfered and erased. But instead of dwelling on setbacks, I made a resolute decision to take control of my code and embrace the collaborative magic of GitHub. It was time to turn the page and navigate the world of version control, learning that sometimes, joining forces with collaborators is key to safeguarding one’s creations. As they say, “If you can’t beat them, join them.”
+
+[Cut to: Transition to the ambitious project]
+
+With this newfound resolve, my debut on GitHub takes the form of an ambitious project — an investment machine, a Black Box promising to transform financial landscapes. In a world where finance serves as the heartbeat of society, I saw an opportunity to contribute and make a meaningful impact.
+
+[Cut to: Visuals of the mql5 currency pair system and the cross MA methodology]
+
+Sure, there were setbacks with the mql5 currency pair system, utilizing the cross MA methodology. Challenges and setbacks followed an initial burst of success, but I decided to make the code available for learning purposes. It’s a testament to the belief that shared knowledge fosters growth, even in the face of setbacks.
+
+[Cut to: Inspiration from John Ghatti’s Nasdaq machine]
+
+Inspiration struck when I encountered John Ghatti’s Nasdaq machine — a marvel dancing with harmonics and Fibonacci retracement in the unpredictable world of trading. His innovative approach captivated me, fueling the desire to create my own trading project. The allure of decoding market patterns and riding the waves of Fibonacci sequences became the driving force behind this new venture.
+
+[Cut to: The collaborative spirit of GitHub]
+
+As I embark on this journey into the captivating realm of algorithmic trading, I find solace and excitement in the collaborative nature of GitHub. It’s not just about safeguarding my creations but fostering a community where ideas flourish, and innovation thrives.
+
+[Cut to: Closing scene with a confident smile]
+
+So, here’s to a new chapter — resilience after setbacks, the courage to share knowledge, and the inspiration drawn from pioneers like John Ghatti. My Black Box project is not just a piece of code; it's a testament to the endless possibilities that unfold when like-minded individuals come together to unravel the mysteries of finance. The journey is just beginning, and I'm eager to see where the collaborative spirit of GitHub will lead this endeavor. Join me in reshaping the financial landscape. 🚀
