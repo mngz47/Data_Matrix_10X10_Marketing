@@ -26,6 +26,14 @@ https://medium.com/@mngz636/my-first-github-repository-black-box-a50b4f93b6ab
 
 https://medium.com/@mngz636/creating-a-travel-website-with-sites-google-com-in-an-hour-for-free-97b5177a91c7
 
+https://medium.com/@mngz636/i-stopped-doing-my-homework-to-focus-on-girls-at-6th-grade-6048a1ca52f1
+
+https://medium.com/@mngz636/specialized-software-using-framework-and-api-of-established-businesses-5620648545ab
+
+https://medium.com/@mngz636/a-skill-everyone-should-have-bank-leverage-get-nydf-funding-85c3797c53a3
+
+https://medium.com/@mngz636/why-south-african-forex-traders-need-quants-d0cfb5f77fe6
+
 
 ____________________________    Blogger
 
