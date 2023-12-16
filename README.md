@@ -22,6 +22,10 @@ https://medium.com/@mngz636/kasi-nametest-testing-ten-south-african-girl-names-b
 
 https://mngz636.medium.com/php-remote-text-writer-editor-github-repository-9a7014362aa1
 
+https://medium.com/@mngz636/my-first-github-repository-black-box-a50b4f93b6ab
+
+https://medium.com/@mngz636/creating-a-travel-website-with-sites-google-com-in-an-hour-for-free-97b5177a91c7
+
 
 ____________________________    Blogger
 
