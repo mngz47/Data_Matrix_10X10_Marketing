@@ -20,6 +20,7 @@ https://medium.com/@mngz636/f-snake-easy-vs-hard-mode-d09ac064d4b0
 
 https://medium.com/@mngz636/kasi-nametest-testing-ten-south-african-girl-names-b25c1ac92b92
 
+https://mngz636.medium.com/php-remote-text-writer-editor-github-repository-9a7014362aa1
 
 
 ____________________________    Blogger
