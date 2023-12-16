@@ -20,6 +20,8 @@ https://medium.com/@mngz636/f-snake-easy-vs-hard-mode-d09ac064d4b0
 
 https://medium.com/@mngz636/kasi-nametest-testing-ten-south-african-girl-names-b25c1ac92b92
 
+
+
 ____________________________    Blogger
 
 https://bambaratech.blogspot.com/
@@ -34,6 +36,7 @@ https://swahilitechnbiz.blogspot.com/
 https://zulutechnbiz.blogspot.com/
 
 ______________________________  Google Sites
+
 
 
 
