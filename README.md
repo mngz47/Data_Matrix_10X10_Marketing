@@ -51,6 +51,10 @@ https://zulutechnbiz.blogspot.com/
 ______________________________  Google Sites
 
 
+_________________________________Chat GPT Prompts
+
+Change text to investor friendly:
+Change text to video script monologue:
 
 
 Footer_____________________________
