@@ -1,0 +1,11 @@
+In the face of a challenging experience where my hard work was unfortunately pilfered and erased, I made a determined decision to regain control of my code and embrace the collaborative power of GitHub. It was time to turn the page and delve into the world of version control, recognizing that sometimes, joining forces with collaborators is key to safeguarding one’s creations. As the saying goes, “If you can’t beat them, join them.”
+
+With this newfound resolve, my debut on GitHub takes the form of an ambitious project — an investment machine, a Black Box promising to transform financial landscapes. In a world where finance serves as the heartbeat of society, I identified an opportunity to contribute to this dynamic realm and make a meaningful impact.
+
+Although the initial setback with the mql5 currency pair system, using the cross MA methodology, brought challenges and setbacks after an initial burst of success, I've decided to make the code available for learning purposes. It’s a testament to the belief that shared knowledge fosters growth, even in the face of setbacks.
+
+Inspiration struck when I encountered John Ghatti’s Nasdaq machine, a marvel that dances with the intricacies of harmonics and Fibonacci retracement in the unpredictable world of trading. His innovative approach captivated me, fueling the desire to create my own trading project. The allure of decoding market patterns and riding the waves of Fibonacci sequences became the driving force behind this new venture.
+
+As I embark on this journey into the captivating realm of algorithmic trading, I find solace and excitement in the collaborative nature of GitHub. It’s not just about safeguarding my creations but fostering a community where ideas flourish, and innovation thrives.
+
+So, here’s to a new chapter — the resilience after setbacks, the courage to share knowledge, and the inspiration drawn from pioneers like John Ghatti. As my Black Box project takes shape, it becomes not just a piece of code but a testament to the endless possibilities that unfold when like-minded individuals come together to unravel the mysteries of finance. The journey is just beginning, and I am eager to see where the collaborative spirit of GitHub will lead this endeavor. Join me in this transformative journey towards reshaping the financial landscape.
