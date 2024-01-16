@@ -50,6 +50,8 @@ https://zulutechnbiz.blogspot.com/
 
 ______________________________  Google Sites
 
+https://sites.google.com/view/zulutechnbusiness/home
+
 
 _________________________________Chat GPT Prompts
 
