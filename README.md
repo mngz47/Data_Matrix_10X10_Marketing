@@ -57,6 +57,12 @@ ______________________________  Google Sites
 https://sites.google.com/view/zulutechnbusiness/home
 
 
+__________________________________ Audience
+
+Original
+https://mngz47.github.io/Data_Matrix_10X10_Marketing/original/How%20to%20generate%20your%20CV%20in%203%20minutes.html
+
+
 _________________________________Chat GPT Prompts
 
 Change text to investor friendly:
