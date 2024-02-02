@@ -61,6 +61,8 @@ __________________________________ Audience
 
 Original
 https://mngz47.github.io/Data_Matrix_10X10_Marketing/original/How%20to%20generate%20your%20CV%20in%203%20minutes.html
+https://mngz47.github.io/Data_Matrix_10X10_Marketing/original/F_Snake_Easy_vs_Hard_Mode.html
+
 
 
 _________________________________Chat GPT Prompts
