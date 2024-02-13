@@ -2,7 +2,11 @@
 
 ![lattice](https://github.com/mngz47/Data_Matrix_10X10_Marketing/assets/15697629/d90c83ad-da09-4050-b96d-96cca5d4b474)
 
+https://mngz47.github.io/Data_Matrix_10X10_Marketing/documentation.html
+
 4 factor representing the 4 dimensions to transpose 10000 units of data (lattice)
+
+
 
 ______________________medium.com alternatives
 
